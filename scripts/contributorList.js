@@ -362,4 +362,8 @@ let contributors = [
    "github": "https://github.com/Shreyanshsingh23",
   "name": "Shreyansh Singh Gautam "
   },
+      {
+        "github": "https://github.com/swastiswagat",
+        "name": "Swasti Swagat"
+    },
 ];
